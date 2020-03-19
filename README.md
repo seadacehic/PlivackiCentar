@@ -1,2 +1,2 @@
 # PlivackiCentar
-ASP.NET mvc aplikacija
+ASP.NET - mvc aplikacija
