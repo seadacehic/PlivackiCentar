@@ -1,0 +1,51 @@
+﻿@model PlivackiCentarWeb.Models.KlijentViewModel
+
+@using (Ajax.BeginForm("NoviKlijent", "Admin", new AjaxOptions
+{
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "noviKlijentForm"
+}))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <p>Unesite sljedeće detalje:</p>
+
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.Ime, new { @class = "form-control", @placeholder = "Ime" })
+        @Html.ValidationMessageFor(m => m.Ime, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.Prezime, new { @class = "form-control", @placeholder = "Prezime" })
+        @Html.ValidationMessageFor(m => m.Prezime, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @placeholder = "Email" })
+        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.Spol, new { @class = "form-control", @placeholder = "Spol" })
+        @Html.ValidationMessageFor(m => m.Spol, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.Telefon, new { @class = "form-control", @placeholder = "Telefon" })
+        @Html.ValidationMessageFor(m => m.Telefon, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        <label class="label">Datum rođenja</label>
+        @Html.EditorFor(m => m.DatumRodjenja, new { @class = "form-control", @placeholder = "Datum rođenja (format: dd/MM/yyyy)" })
+        @Html.ValidationMessageFor(m => m.DatumRodjenja, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.CheckBoxFor(m => m.IsPlivac, new { @onclick = "selectOnlyThis(this.id)", @id = "Check1", @checked = "true" }) Plivač
+        @Html.ValidationMessageFor(m => m.IsPlivac, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.CheckBoxFor(m => m.IsRekreativac, new { @onclick = "selectOnlyThis(this.id)", @id = "Check2" }) Rekreativac
+        @Html.ValidationMessageFor(m => m.IsRekreativac, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit"><i class="fa fa-plus"></i><strong> Dodaj klijenta</strong></button>
+    </div>
+}
+
+<script></script>

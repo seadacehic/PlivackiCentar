@@ -1,0 +1,50 @@
+﻿@model PlivackiCentarWeb.Models.KlijentPreviewViewModel
+
+@{
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="row">
+    @if (Model.IsPlivac)
+    {
+        <div id="takmicenjaKlijenta" class="col-lg-12">
+            @Html.Action("_klijentTakmicenja", Model.Id)
+        </div>
+    }
+    <div id="takmicenjaKlijenta" class="col-lg-12">
+        <div class="ibox col-lg-12">
+            <div class="ibox-title">
+                <h5>Termini </h5>
+            </div>
+            <div class="ibox-content">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Datum</th>
+                                    <th>Trener</th>
+                                    <th>Bazen</th>
+                                    <th>Vrijeme</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var termin in Model.Termini)
+                                {
+                                    <tr>
+                                        <td>@termin.Datum.Value.ToString("dd/MM/yyyy")</td>
+                                        <td>@termin.Trener.Ime @termin.Trener.Prezime</td>
+                                        <td>@termin.Bazen.Naziv </td>
+                                        <td>@termin.VrijemeOd @termin.VrijemeDo</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+

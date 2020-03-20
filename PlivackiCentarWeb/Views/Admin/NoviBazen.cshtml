@@ -1,0 +1,51 @@
+﻿@{
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-10">
+        <h2>Novi bazen</h2>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="/Admin/Index">Admin</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="/Admin/Bazeni">Bazeni</a>
+            </li>
+            <li class="breadcrumb-item active">
+                <strong>Novi bazen</strong>
+            </li>
+        </ol>
+    </div>
+    <div class="col-lg-2">
+
+    </div>
+</div>
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-5">
+            <div class="ibox ">
+                <div class="ibox-title">
+                    <h5>Detalji za novi bazen</h5>
+                </div>
+                <div id="noviBazenForm" class="ibox-content">
+                    @Html.Partial("_noviBazen")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        function selectOnlyThis(id) {
+            for (var i = 1; i <= 2; i++) {
+                document.getElementById("Check" + i).checked = false;
+                document.getElementById("Check" + i).setAttribute("checked", "false");
+            }
+            document.getElementById(id).checked = true;
+            document.getElementById(id).setAttribute("checked", "true");
+        }
+    </script>
+}

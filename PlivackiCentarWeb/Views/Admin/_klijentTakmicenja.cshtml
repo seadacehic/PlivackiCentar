@@ -1,0 +1,56 @@
+﻿@model PlivackiCentarWeb.Models.TakmicenjePlivacViewModel
+
+<div>
+    <div class="ibox ">
+        <div class="ibox-title">
+            <h5>Takmičenja <small>Učešće na takmičenjima</small></h5>
+        </div>
+        <div class="ibox-content">
+            <div class="row">
+                <div class="col-sm-4 b-r">
+                    <h3 class="m-t-none m-b">Novo takmičenje</h3>
+                    <p>Dodaj učesnika na određeno takmičenje</p>
+                    @using (Ajax.BeginForm("NovoKlijentTakmicenje", "Admin", new AjaxOptions
+                    {
+                        InsertionMode = InsertionMode.Replace,
+                        UpdateTargetId = "takmicenjaKlijenta"
+                    }))
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        @Html.HiddenFor(m => m.PlivacId)
+                        <div class="form-group">
+                            @Html.DropDownListFor(m => m.TakmicenjeId, new SelectList(Model.SvaTakmicenja, "Id", "Naziv"), new { @class = "form-control" })
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-primary" type="submit"><i class="fa fa-check"></i><strong> Potvrdi učešće</strong></button>
+                        </div>
+                    }
+                </div>
+                <div class="col-sm-8">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Naziv</th>
+                                <th>Osvojena mjesta</th>
+                                <th>Datum</th>
+                                <th>Grad</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var takmicenje in Model.TakmicenjaKlijenta)
+                            {
+                                <tr>
+                                    <td>@takmicenje.Naziv</td>
+                                    <td>@takmicenje.OsvojenaMjesta</td>
+                                    <td>@takmicenje.Datum.Value.ToString("dd/MM/yyyy")</td>
+                                    <td>@takmicenje.Grad</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

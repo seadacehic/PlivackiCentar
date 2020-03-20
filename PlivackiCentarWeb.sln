@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlivackiCentarWeb", "PlivackiCentarWeb\PlivackiCentarWeb.csproj", "{74D7E3A6-5F90-4A5C-A1F8-C396A8A1FF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATA", "DATA\DATA.csproj", "{FF1A2A89-6D28-487A-AEFD-A97234FF0963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D7E3A6-5F90-4A5C-A1F8-C396A8A1FF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D7E3A6-5F90-4A5C-A1F8-C396A8A1FF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D7E3A6-5F90-4A5C-A1F8-C396A8A1FF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D7E3A6-5F90-4A5C-A1F8-C396A8A1FF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1A2A89-6D28-487A-AEFD-A97234FF0963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1A2A89-6D28-487A-AEFD-A97234FF0963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1A2A89-6D28-487A-AEFD-A97234FF0963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1A2A89-6D28-487A-AEFD-A97234FF0963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {345E5F33-97EE-4989-9A36-0D597D4562D8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\bin\Debug\DATA.dll.config
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\bin\Debug\DATA.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\bin\Debug\DATA.pdb
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\bin\Debug\EntityFramework.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\bin\Debug\EntityFramework.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\obj\Debug\DATA.Migrations.InitialCreate.resources
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\obj\Debug\DATA.csproj.GenerateResource.cache
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\obj\Debug\DATA.csproj.CopyComplete
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\obj\Debug\DATA.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\DATA\obj\Debug\DATA.pdb
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\bin\Debug\DATA.dll.config
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\bin\Debug\DATA.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\bin\Debug\DATA.pdb
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\bin\Debug\EntityFramework.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\bin\Debug\EntityFramework.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\obj\Debug\DATA.Migrations.InitialCreate.resources
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\obj\Debug\DATA.csproj.GenerateResource.cache
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\obj\Debug\DATA.csproj.CopyComplete
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\obj\Debug\DATA.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\DATA\obj\Debug\DATA.pdb

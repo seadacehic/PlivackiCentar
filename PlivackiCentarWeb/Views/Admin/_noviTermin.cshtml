@@ -1,0 +1,39 @@
+﻿@model PlivackiCentarWeb.Models.TerminViewModel
+
+@using (Ajax.BeginForm("NoviTermin", "Admin", new AjaxOptions
+{
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "noviTerminForm"
+}))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <p>Unesite sljedeće detalje:</p>
+
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.VrijemeOd, new { @class = "form-control", @placeholder = "Vrijeme od" })
+        @Html.ValidationMessageFor(m => m.VrijemeOd, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.VrijemeDo, new { @class = "form-control", @placeholder = "Vrijeme do" })
+        @Html.ValidationMessageFor(m => m.VrijemeDo, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        <label class="label">Datum</label>
+        @Html.EditorFor(m => m.Datum, new { @class = "form-control", @placeholder = "Datum (format: dd/MM/yyyy)" })
+        @Html.ValidationMessageFor(m => m.Datum, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.DropDownListFor(m => m.BazenId, new SelectList(Model.Bazeni, "Id", "Naziv"), new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.DropDownListFor(m => m.GrupaId, new SelectList(Model.Grupe, "Id", "Uzrast"), new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.DropDownListFor(m => m.TrenerId, new SelectList(Model.Treneri, "Id", "Ime"), new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit"><i class="fa fa-plus"></i><strong> Dodaj termin</strong></button>
+    </div>
+}

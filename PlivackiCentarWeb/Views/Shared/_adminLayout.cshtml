@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>NERETVA | @ViewBag.Title</title>
+
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
+
+    <!-- Gritter -->
+    <link href="~/assets/js/plugins/gritter/jquery.gritter.css" rel="stylesheet">
+
+    <link href="~/assets/css/animate.css" rel="stylesheet">
+    <link href="~/assets/css/style.css" rel="stylesheet">
+
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</head>
+
+<body>
+    <div id="wrapper">
+        <nav class="navbar-default navbar-static-side" role="navigation">
+            <div class="sidebar-collapse">
+                <ul class="nav metismenu" id="side-menu">
+                    <li class="nav-header">
+                        <div class="dropdown profile-element">
+                            <img alt="image" class="rounded-circle" src="~/assets/img/profile_small.png" />
+                            <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                                <span class="block m-t-xs font-bold">@Session["current-account-name"]</span>
+                                <span class="text-muted text-xs block">@Session["current-account-role"]</span>
+                            </a>
+                        </div>
+                        <div class="logo-element">
+                            <img src="~/assets/image/neretva_riba.png" width="40" />
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/Admin/Bazeni"><i class="fa fa-square-o"></i> <span class="nav-label">Bazeni</span></a>
+                    </li>
+                    <li>
+                        <a href="/Admin/Treneri"><i class="fa fa-users"></i> <span class="nav-label">Treneri</span></a>
+                    </li>
+                    <li>
+                        <a href="/Admin/Klijenti"><i class="fa fa-smile-o"></i> <span class="nav-label">Klijenti</span></a>
+                    </li>
+                    <li>
+                        <a href="/Admin/Termini"><i class="fa fa-clock-o"></i> <span class="nav-label">Termini</span></a>
+                    </li>
+                    <li>
+                        <a href="/Admin/Grupe"><i class="fa fa-users"></i> <span class="nav-label">Grupe</span></a>
+                    </li>
+                    <li>
+                        <a href="/Admin/Takmicenja"><i class="fa fa-trophy"></i> <span class="nav-label">Takmičenja</span></a>
+                    </li>
+                    <li class="landing_link">
+                        <a href="/Admin/Statistika"><i class="fa fa-bar-chart"></i> <span class="nav-label">Statistika</span> </a>
+                    </li>
+                </ul>
+
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="gray-bg dashbard-1">
+            <div class="row border-bottom">
+                <nav class="navbar navbar-static-top" role="navigation" style="margin-bottom: 0">
+                    <div class="navbar-header">
+                        <a class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i> </a>
+                    </div>
+                    <ul class="nav navbar-top-links navbar-right">
+                        <li style="padding: 20px">
+                            <span class="m-r-sm text-muted welcome-message">Dobrodošli na portal plivačkog kluba "NERETVA"</span>
+                        </li>
+                        <li>
+                            @using (Html.BeginForm("LogOff", "Guest", FormMethod.Post, new { id = "logoutForm" }))
+                            {
+                                @Html.AntiForgeryToken()
+
+                                <a href="javascript:document.getElementById('logoutForm').submit()">
+                                    <i class="fa fa-sign-out"></i> Odjava
+                                </a>
+                            }
+                        </li>
+                    </ul>
+
+                </nav>
+            </div>
+            @RenderBody()
+            <div class="footer">
+                <div class="float-right">
+                    &copy; 2020
+                </div>
+                <div>
+                    <strong>NERETVA</strong> Plivački Centar
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Mainly scripts -->
+    <script src="~/assets/js/popper.min.js"></script>
+    <script src="~/assets/js/bootstrap.js"></script>
+    <script src="~/assets/js/plugins/metisMenu/jquery.metisMenu.js"></script>
+    <script src="~/assets/js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+
+    <!-- Flot -->
+    <script src="~/assets/js/plugins/flot/jquery.flot.js"></script>
+    <script src="~/assets/js/plugins/flot/jquery.flot.tooltip.min.js"></script>
+    <script src="~/assets/js/plugins/flot/jquery.flot.spline.js"></script>
+    <script src="~/assets/js/plugins/flot/jquery.flot.resize.js"></script>
+    <script src="~/assets/js/plugins/flot/jquery.flot.pie.js"></script>
+
+    <!-- Peity -->
+    <script src="~/assets/js/plugins/peity/jquery.peity.min.js"></script>
+    <script src="~/assets/js/demo/peity-demo.js"></script>
+
+    <!-- Custom and plugin javascript -->
+    <script src="~/assets/js/inspinia.js"></script>
+    <script src="~/assets/js/plugins/pace/pace.min.js"></script>
+
+    <!-- jQuery UI -->
+    <script src="~/assets/js/plugins/jquery-ui/jquery-ui.min.js"></script>
+
+    <!-- GITTER -->
+    <script src="~/assets/js/plugins/gritter/jquery.gritter.min.js"></script>
+
+    <!-- Sparkline -->
+    <script src="~/assets/js/plugins/sparkline/jquery.sparkline.min.js"></script>
+
+    <!-- Sparkline demo data  -->
+    <script src="~/assets/js/demo/sparkline-demo.js"></script>
+
+    <!-- ChartJS-->
+    <script src="~/assets/js/plugins/chartJs/Chart.min.js"></script>
+
+    @RenderSection("Scripts", false)
+</body>
+</html>
+

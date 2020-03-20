@@ -1,0 +1,348 @@
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\PlivackiCentarWeb.dll.config
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\PlivackiCentarWeb.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\PlivackiCentarWeb.pdb
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csc.exe
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csc.exe.config
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csc.rsp
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csi.exe
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csi.exe.config
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csi.rsp
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.AppContext.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Console.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.Compression.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Net.Http.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Net.Sockets.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.ValueTuple.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.XPath.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\vbc.exe
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\vbc.exe.config
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\vbc.rsp
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\VBCSCompiler.exe
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Antlr3.Runtime.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.SqlServer.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Newtonsoft.Json.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Owin.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Helpers.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Mvc.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Optimization.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Razor.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Deployment.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Razor.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\WebGrease.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Helpers.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Mvc.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Optimization.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Razor.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Deployment.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Razor.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Newtonsoft.Json.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Antlr3.Runtime.pdb
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.SqlServer.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.csprojAssemblyReference.cache
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.csproj.CopyComplete
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.dll
+C:\CEHIC\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.pdb
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\PlivackiCentarWeb.dll.config
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\PlivackiCentarWeb.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\PlivackiCentarWeb.pdb
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csc.exe
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csc.exe.config
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csc.rsp
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csi.exe
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csi.exe.config
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csi.rsp
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.AppContext.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Console.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.Compression.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Net.Http.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Net.Sockets.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.ValueTuple.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.XPath.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\vbc.exe
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\vbc.exe.config
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\vbc.rsp
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\VBCSCompiler.exe
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Antlr3.Runtime.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\DATA.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.SqlServer.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Newtonsoft.Json.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Owin.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Helpers.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Mvc.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Optimization.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Razor.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Deployment.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Razor.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\WebGrease.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\DATA.pdb
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\DATA.dll.config
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Helpers.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Mvc.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Optimization.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Razor.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Deployment.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Razor.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Newtonsoft.Json.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Antlr3.Runtime.pdb
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.SqlServer.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.csprojAssemblyReference.cache
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.csproj.CoreCompileInputs.cache
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.csproj.CopyComplete
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.dll
+C:\CEHIC\Seada Seminarski Rad RS\PlivackiCentarWeb\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.pdb
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\PlivackiCentarWeb.dll.config
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\PlivackiCentarWeb.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\PlivackiCentarWeb.pdb
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csc.exe
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csc.exe.config
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csc.rsp
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csi.exe
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csi.exe.config
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\csi.rsp
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Console.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\vbc.exe
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\vbc.exe.config
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\vbc.rsp
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Antlr3.Runtime.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\DATA.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Newtonsoft.Json.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Owin.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Helpers.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Mvc.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Optimization.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Razor.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\WebGrease.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\DATA.pdb
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\DATA.dll.config
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Helpers.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Mvc.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Optimization.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.Razor.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Newtonsoft.Json.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.csprojAssemblyReference.cache
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.csproj.CopyComplete
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.dll
+C:\Users\Seada\Desktop\PlivackiCentarWeb\PlivackiCentarWeb\obj\Debug\PlivackiCentarWeb.pdb

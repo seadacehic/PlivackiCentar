@@ -1,0 +1,68 @@
+﻿@using PlivackiCentarWeb.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Prijava";
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>NERETVA | Prijava</title>
+
+    <link href="~/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="~/assets/css/font-awesome/css/font-awesome.css" rel="stylesheet">
+
+    <link href="~/assets/css/animate.css" rel="stylesheet">
+    <link href="~/assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body class="gray-bg">
+
+    <div class="middle-box text-center loginscreen animated fadeInDown">
+        <div>
+            <div>
+
+                <img src="~/assets/image/NERETVA.png" width="250" />
+
+            </div>
+            <h3>Dobrodošli u Plivački centar "Neretva"</h3>
+            @using (Html.BeginForm("Login", "Guest", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "m-t", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                <div class="form-group">
+                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @placeholder = "Korisničko ime" })
+                    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "Lozinka" })
+                    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                </div>
+                <button type="submit" class="btn btn-primary block full-width m-b">Prijava</button>
+                <a class="btn btn-sm btn-white btn-block" href="/Guest/Register">Registracija</a>
+
+                <p class="text-muted text-center"><small>Zaboravili ste lozinku? Kontaktirajte nas putem <a href="tel:036572572">036 572 572</a>.</small></p>
+            }
+            <p class="m-t"> <small>Plivački Centar "Neretva" &copy; 2020</small> </p>
+        </div>
+    </div>
+
+    <!-- Mainly scripts -->
+    <script src="~/assets/js/jquery-3.1.1.min.js"></script>
+    <script src="~/assets/js/popper.min.js"></script>
+    <script src="~/assets/js/bootstrap.js"></script>
+
+</body>
+
+</html>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

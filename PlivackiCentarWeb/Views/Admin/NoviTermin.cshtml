@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-lg-10">
+        <h2>Novi termin</h2>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="/Admin/Index">Admin</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="/Admin/Termini">Termini</a>
+            </li>
+            <li class="breadcrumb-item active">
+                <strong>Novi termin</strong>
+            </li>
+        </ol>
+    </div>
+    <div class="col-lg-2">
+
+    </div>
+</div>
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-5">
+            <div class="ibox ">
+                <div class="ibox-title">
+                    <h5>Detalji za novi termin</h5>
+                </div>
+                <div id="noviTerminForm" class="ibox-content">
+                    @Html.Partial("_noviTermin")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

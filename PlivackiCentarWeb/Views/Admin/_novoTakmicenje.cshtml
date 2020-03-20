@@ -1,0 +1,32 @@
+﻿@model PlivackiCentarWeb.Models.TakmicenjeViewModel
+
+@using (Ajax.BeginForm("NovoTakmicenje", "Admin", new AjaxOptions
+{
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "novoTakmicenjeForm"
+}))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <p>Unesite sljedeće detalje:</p>
+
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.Naziv, new { @class = "form-control", @placeholder = "Naziv" })
+        @Html.ValidationMessageFor(m => m.Naziv, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.OsvojenaMjesta, new { @class = "form-control", @placeholder = "Osvojena mjesta" })
+        @Html.ValidationMessageFor(m => m.OsvojenaMjesta, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.DropDownListFor(m => m.GradId, new SelectList(Model.Gradovi, "Id", "Naziv"), new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label class="label">Datum</label>
+        @Html.EditorFor(m => m.Datum, new { @class = "form-control", @placeholder = "Datum (format: dd/MM/yyyy)" })
+        @Html.ValidationMessageFor(m => m.Datum, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit"><i class="fa fa-plus"></i><strong> Dodaj takmičenje</strong></button>
+    </div>
+}

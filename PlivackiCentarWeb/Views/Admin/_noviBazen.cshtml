@@ -1,0 +1,35 @@
+﻿@model PlivackiCentarWeb.Models.BazenViewModel
+
+@using (Ajax.BeginForm("NoviBazen", "Admin", new AjaxOptions
+{
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "noviBazenForm"
+}, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <p>Unesite sljedeće detalje:</p>
+
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.Naziv, new { @class = "form-control", @placeholder = "Naziv" })
+        @Html.ValidationMessageFor(m => m.Naziv, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.Dimenzije, new { @class = "form-control", @placeholder = "Dimenzije" })
+        @Html.ValidationMessageFor(m => m.Dimenzije, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.Opis, new { @class = "form-control", @placeholder = "Opis" })
+        @Html.ValidationMessageFor(m => m.Opis, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.DropDownListFor(m => m.GradId, new SelectList(Model.Gradovi, "Id", "Naziv"), new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <input type="file" id="Slika" name="Slika" />
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit"><i class="fa fa-plus"></i><strong> Dodaj bazen</strong></button>
+    </div>
+}
